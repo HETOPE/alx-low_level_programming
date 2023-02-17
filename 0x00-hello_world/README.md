@@ -4,3 +4,5 @@
 -Script that generates the assembly code of a C code and save it in an output file
 -Script that compiles a C file and creates an executable named cisfun
 # Hello, puts
+# Hello, printf
+# Size is not grandeur, and territory does not make a nation
